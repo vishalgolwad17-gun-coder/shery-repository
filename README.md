@@ -48,7 +48,6 @@ Users can search profiles in real time, and the UI updates instantly based on th
 ---
 
 ## ✨ Code Snippet (Search Logic)
-
 js
 inp.addEventListener("input", function () {
   let filteredUsers = users.filter(user =>
